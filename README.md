@@ -9,3 +9,6 @@ This is a simple Python program that is interacted with through the console, so 
 
 ## Contribution
 To contribute to this project, begin by [forking the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo). While there are many options for editing and running the program, even beyond those enumerated above, we'd recommend using a code editor like Visual Studio Code for convenience. There are currently no explicit functionalities we would like to be added to the project, but if something strikes you as a worthwhile addition, feel free to [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)!
+
+## License and Code of Conduct
+We chose not to write our own license and code of conduct. This project is not particularly significant in its scope or impact, so we chose a preexisting license and code of conduct from MIT and Google, respectively, that each lend a lot of freedom to whoever chooses to interact with this program. We have no investment in gatekeeping a single-digit number of lines of code.
